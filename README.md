@@ -3,7 +3,7 @@
 ##### 🌱 I’m currently learning front-end tools like grunt, less, sass and gulp and I'm a student of Information Systems at the at the IFPR - Federal Institue of Paraná.
 ##### 💬 Ask me about HTML, CSS, Gulp, Grunt, Sass, Less, Bootstrap, Jquery, Node.js...
 ##### ⚡ Fun fact: I'm a musician and I play the guitar and classical guitar. I work with instrumental music such jazz, r&b and brazilian styles such as samba, bossa nova, baião, forró etc... 
-##### 📫 How to reach me: Social midias are in my bio. 
+##### 📫 How to reach me: My social media links are in my bio.
 <!--
 **LuizFKM/LuizFKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
