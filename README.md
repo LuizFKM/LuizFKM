@@ -4,6 +4,9 @@
 ##### 💬 Ask me about HTML, CSS, Gulp, Grunt, Sass, Less, Bootstrap, Jquery, Node.js, VueJs, TypeScript, React...
 ##### ⚡ Fun fact: I'm a musician and I play the guitar and classical guitar. I work with instrumental music such jazz, r&b and brazilian styles such as samba, bossa nova, baião, forró etc... 
 ##### 📫 How to reach me: My social media links are in my bio.
+<img src="https://github-readme-stats.vercel.app/api?username=luizfkm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfkm&layout=compact&langs_count=7&theme=dracula" />
+
 <!--
 **LuizFKM/LuizFKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
