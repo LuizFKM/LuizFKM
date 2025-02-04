@@ -1,9 +1,8 @@
-### Hi there 👋
-##### I'm Luiz Chico and this is a repository for register the process on my studies as a web and software developer!
-##### 🌱 I’m currently learning front-end and I'm a student of Information Systems at the at the IFPR - Federal Institue of Paraná.
-##### 💬 Ask me about HTML, CSS, Gulp, Grunt, Sass, Less, Bootstrap, Jquery, Node.js, VueJs, TypeScript, React...
-##### ⚡ Fun fact: I'm a musician and I play the guitar and classical guitar. I work with instrumental music such jazz, r&b and brazilian styles such as samba, bossa nova, baião, forró etc... 
-##### 📫 How to reach me: My social media links are in my bio.
+
+##### Me chamo Luiz Francisco, neste repositório armazeno meus projetos para estudo tanto de Fontend quanto Backend
+##### 🌱 Atualmente estou cursando Sistemas de Informação pelo Instituto Federal do Paraná e meu foco no momento é o desenvolvimento de aplicações em React e estudos de Backend como desenvolvimento de APIs Restful com Python em Django.
+##### Sou músico e o negócio é JAZZ!
+
 
 <!--
 **LuizFKM/LuizFKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
