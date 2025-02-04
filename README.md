@@ -1,6 +1,6 @@
 
-##### Me chamo Luiz Francisco, neste repositório armazeno meus projetos para estudo tanto de Fontend quanto Backend
-##### 🌱 Atualmente estou cursando Sistemas de Informação pelo Instituto Federal do Paraná e meu foco no momento é o desenvolvimento de aplicações em React e estudos de Backend como desenvolvimento de APIs Restful com Python em Django.
+##### Neste repositório armazeno meus projetos para estudo tanto de Fontend quanto Backend.
+##### Atualmente estou cursando Sistemas de Informação pelo Instituto Federal do Paraná e meu foco no momento é o desenvolvimento de aplicações em React e estudos de Backend como desenvolvimento de APIs Restful com Python em Django. Objetivo é construir aplicações de ponta a ponta.
 ##### Sou músico e o negócio é JAZZ!
 
 
