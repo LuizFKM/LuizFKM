@@ -1,6 +1,6 @@
 
-##### Neste repositório armazeno meus projetos para estudo tanto de Fontend quanto Backend.
-##### Atualmente estou cursando Sistemas de Informação pelo Instituto Federal do Paraná e meu foco no momento é o desenvolvimento de aplicações em React e estudos de Backend como desenvolvimento de APIs Restful com Python em Django. Objetivo é construir aplicações de ponta a ponta.
+Repositórios para estudo e projetos
+##### Atualmente curso Sistemas de Informação pelo Instituto Federal do Paraná. Meu foco no momento é o desenvolvimento full stack, aplicações web com React, APIs Restful com Python e Django. 
 ##### Sou músico e o negócio é JAZZ!
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFKM&layout=compact&theme=dracula)
