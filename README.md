@@ -3,6 +3,7 @@
 ##### Atualmente estou cursando Sistemas de Informação pelo Instituto Federal do Paraná e meu foco no momento é o desenvolvimento de aplicações em React e estudos de Backend como desenvolvimento de APIs Restful com Python em Django. Objetivo é construir aplicações de ponta a ponta.
 ##### Sou músico e o negócio é JAZZ!
 
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFKM&layout=compact&theme=dracula)
 
 <!--
 **LuizFKM/LuizFKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
