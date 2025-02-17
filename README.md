@@ -1,7 +1,7 @@
 
 Repositórios para estudo e projetos
 ##### Atualmente curso Sistemas de Informação pelo Instituto Federal do Paraná. Meu foco no momento é o desenvolvimento full stack, aplicações web com React, APIs Restful com Python e Django. 
-##### Sou músico e o negócio é JAZZ!
+##### Sou músico, jazzista.
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFKM&layout=compact&theme=dracula)
 
