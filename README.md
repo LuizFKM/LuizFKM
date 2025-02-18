@@ -3,30 +3,24 @@
 ##### Atualmente curso Sistemas de Informação pelo Instituto Federal do Paraná. Meu foco no momento é o desenvolvimento full stack, aplicações web com React, APIs Restful com Python e Django. 
 
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFKM&layout=compact&theme=dracula">
+<p align="center" >
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFKM&layout=compact&theme=dracula">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizFKM&show_icons=true&theme=dracula">
   </a>
 </p>
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=luizFKM&show_icons=true&theme=dracula&layout=compact">
-  </a>
-</p>
 
-<p>
+<p align=center>
   <a href="https://www.linkedin.com/in/lluizfkmchico/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30">
+    <img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30">
   </a>
 </p>
 
-<p>
+<p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizFKM&repo=efood_react&theme=dracula">
   </a>
-</p>
-<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizFKM&repo=bookstore&theme=dracula">
   </a>
