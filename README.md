@@ -1,7 +1,7 @@
 
 ### Repositórios para estudo e projetos
 ##### Atualmente curso Sistemas de Informação pelo Instituto Federal do Paraná. Meu foco no momento é o desenvolvimento full stack, aplicações web com React, APIs Restful com Python e Django. 
-##### Sou músico, jazzista.
+
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
