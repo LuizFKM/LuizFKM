@@ -18,10 +18,10 @@
 </p>
 
 <p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/LuizFKM/efood_react.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizFKM&repo=efood_react&theme=dracula">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/LuizFKM/bookstore.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizFKM&repo=bookstore&theme=dracula">
   </a>
 </p>
