@@ -19,10 +19,10 @@
 
 <p align=center>
   <a href="https://github.com/LuizFKM/efood_react.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizFKM&repo=efood_react&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizFKM&repo=efood_react&theme=dracula&description_lines_count=3">
   </a>
   <a href="https://github.com/LuizFKM/bookstore.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizFKM&repo=bookstore&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizFKM&repo=bookstore&theme=dracula&description_lines_count=3">
   </a>
 </p>
 
