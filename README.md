@@ -6,7 +6,11 @@
 <p align="center" >
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFKM&layout=compact&theme=dracula">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizFKM&show_icons=true&theme=dracula">
+  </a>
+</p>
+<p align="center" >
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizFKM&show_icons=true&theme=dracula">
   </a>
 </p>
 
