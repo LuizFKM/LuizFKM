@@ -3,19 +3,21 @@
 #### Atualmente curso Sistemas de Informação pelo Instituto Federal do Paraná. Meu foco no momento é o desenvolvimento full stack, aplicações web com React, APIs Restful com Python e Django. 
 
 
-<p align="center" >
+<p align="start" >
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFKM&layout=compact&theme=dracula">
   </a>
 </p>
-<p align="center" >
+<p align="start" >
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizFKM&show_icons=true&theme=dracula">
   </a>
 </p>
+<a href="https://www.linkedin.com/in/lluizfkmchico/">
+    <img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30">
+</a>
 
-
-<p align=center>
+<!-- <p align=center>
   <a href="https://www.linkedin.com/in/lluizfkmchico/">
     <img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30">
   </a>
@@ -28,7 +30,7 @@
   <a href="https://github.com/LuizFKM/bookstore.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizFKM&repo=bookstore&theme=dracula&description_lines_count=3">
   </a>
-</p>
+</p> -->
 
 
 
