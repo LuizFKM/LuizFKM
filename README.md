@@ -1,6 +1,12 @@
 
-### Repositórios para estudo e projetos
-#### Atualmente curso Sistemas de Informação pelo Instituto Federal do Paraná. Meu foco no momento é o desenvolvimento full stack, aplicações web com React, APIs Restful com Python e Django. 
+
+#### Estudante do 4º período de Sistemas de Informação pelo Instituto Federal do Paraná.
+### 🛠 Tech Stack <br>
+##### Back-end: Python, Django, DRF, Java.
+
+##### Front-end: React, Vue.js, TypeScript.
+
+##### Tools: Git, Docker, Linux, PostgreSQL.
 
 
 <p align="start" >
