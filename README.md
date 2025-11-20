@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Luiz! 👋</h1>
+<h1 align="center">Luiz Francisco Kukul Marinho</h1>
 
 <p align="center">
   <b>Estudante do 4º período de Sistemas de Informação pelo Instituto Federal do Paraná (IFPR).</b><br>
