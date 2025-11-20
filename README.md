@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Estudante do 4º período de Sistemas de Informação pelo Instituto Federal do Paraná (IFPR).</b><br>
-  Atualmente focado em conciliar desenvolvimento Full Stack com pesquisa acadêmica em Big Data e Lógica.
+  Atualmente focado em conciliar desenvolvimento Full Stack com pesquisa acadêmica em Big Data.
 </p>
 
 <br>
